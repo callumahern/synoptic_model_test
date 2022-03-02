@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  year_released: 1
+  in_stock: false
+  references: 
+
+two:
+  title: MyString
+  year_released: 1
+  in_stock: false
+  references: 
